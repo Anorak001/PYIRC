@@ -26,7 +26,7 @@ b) <list> - lists all the rooms available along with members
 
 c) <leave> - enables member to leave rooms
 
-d) <personal> - allows mmembers to do a personal chat
+d) <personal> - allows members to do a personal chat
 
 e) <switch> - enables user to switch in room to send distinct message
 
